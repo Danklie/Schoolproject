@@ -6,9 +6,9 @@ alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar
 zumindest die folgenden Angaben umfassen:
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG: Dolphinworld
-PROJEKTZWECK: Schoolproject
-VERSION oder DATUM: 0.1
+PROJEKTBEZEICHNUNG:
+PROJEKTZWECK:
+VERSION oder DATUM:
 WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN): chmid Andreas, Daniel Klier, David Putlitz
+AUTOR(EN):
 BENUTZERHINWEISE:
